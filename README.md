@@ -20,6 +20,8 @@
 
 So I'm using this tutorial http://karpathy.github.io/neuralnets/ from Andrej Karpathy who is also involved in cs231n and works in Tesla.
 
+This one uses AND, OR, XOR gates as examples https://hackaday.com/2016/11/02/machine-learning-foundations/
+
 
 ## Tutorials
 
